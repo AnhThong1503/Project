@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 noi dung tu may khac
+=======
+noi dung tu may 1
+>>>>>>> 3fe15b81cea940f019c1213477e22e9182d4e16d
