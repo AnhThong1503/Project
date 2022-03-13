@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello tu may 1
+=======
+Hello tu may Khac
+>>>>>>> 3a5fcf25dec24a68321ce5a1d2531c89b26780a1
